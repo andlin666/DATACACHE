@@ -1,4 +1,4 @@
-# DataCachePhase1
+# DATACACHE
 Simple project for DataCache utility functionality. The goal is to ease the use of Azure Object Store. The project consists of 
 a collection of classes that encapsualte connections and common operations. It is built on top of the Azure Python SDK's.
 
